@@ -28,7 +28,7 @@
         android:layout_marginEnd="20dp"
         android:text="Welcome"
         android:textAlignment="center"
-        android:textColor="@color/yellow"
+        android:textColor="@color/black"
         android:textSize="40sp"
         android:textStyle="bold" />
 
@@ -41,7 +41,7 @@
         android:layout_marginStart="20sp"
         android:layout_marginTop="70dp"
         android:layout_marginEnd="20dp"
-        android:background="@drawable/button_shape"
+        android:background="@color/yellow"
         android:text="Scan your QR Code"
         android:textAllCaps="false" />
 
